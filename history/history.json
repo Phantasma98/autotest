@@ -1,0 +1,1 @@
+{"943bbbd67825120d46a4b7b76b149b0e":{"statistic":{"failed":1,"broken":0,"skipped":0,"passed":0,"unknown":0,"total":1},"items":[{"uid":"45c423f031da9b32","status":"failed","statusDetails":"Пользователь не авторизирован","time":{"start":1741957621377,"stop":1741957623104,"duration":1727}}]}}
