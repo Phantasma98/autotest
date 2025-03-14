@@ -1,1 +1,1 @@
-{"943bbbd67825120d46a4b7b76b149b0e":{"statistic":{"failed":1,"broken":0,"skipped":0,"passed":0,"unknown":0,"total":1},"items":[{"uid":"165cc92f4dc1fae8","status":"failed","statusDetails":"Пользователь не авторизирован","time":{"start":1741963334434,"stop":1741963336635,"duration":2201}}]}}
+{"943bbbd67825120d46a4b7b76b149b0e":{"statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1},"items":[{"uid":"947c40ff93860520","status":"passed","time":{"start":1741964504741,"stop":1741964506907,"duration":2166}}]}}
