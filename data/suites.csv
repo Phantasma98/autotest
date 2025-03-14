@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"Создание ставки","1412","bet","MultipleTestsSuite","Fri Mar 14 17:54:03 EET 2025","passed","Fri Mar 14 17:54:05 EET 2025","com.goldeneggs.casino.main","MainTest","com.goldeneggs.casino.main","bet"
+"Авторизация","1984","auth","MultipleTestsSuite","Fri Mar 14 17:54:01 EET 2025","passed","Fri Mar 14 17:54:03 EET 2025","com.goldeneggs.casino.main","MainTest","com.goldeneggs.casino.main","auth"
