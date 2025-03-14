@@ -1,1 +1,1 @@
-[{"uid":"947c40ff93860520","name":"auth","time":{"start":1741964504741,"stop":1741964506907,"duration":2166},"status":"passed","severity":"normal"}]
+[{"uid":"2db28560f223999b","name":"bet","time":{"start":1741964643451,"stop":1741964644800,"duration":1349},"status":"failed","severity":"normal"},{"uid":"c5b8ea909040684d","name":"auth","time":{"start":1741964641651,"stop":1741964643386,"duration":1735},"status":"passed","severity":"normal"}]
