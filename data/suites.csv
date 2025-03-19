@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"Авторизация","4615","auth","MultipleTestsSuite","Wed Mar 19 10:48:41 EET 2025","passed","Wed Mar 19 10:48:45 EET 2025","com.goldeneggs.casino.main","MainTest","com.goldeneggs.casino.main","auth"
