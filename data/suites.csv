@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","2","setUp","MultipleTestsSuite","Fri Mar 21 12:39:33 EET 2025","broken","Fri Mar 21 12:39:33 EET 2025","com.goldeneggs.betting.mainPage","Main","com.goldeneggs.betting.mainPage","setUp"
+"Авторизация","5606","auth","MultipleTestsSuite","Fri Mar 21 12:48:20 EET 2025","failed","Fri Mar 21 12:48:25 EET 2025","com.goldeneggs.betting.mainPage","Main","com.goldeneggs.betting.mainPage","auth"
+"Подключение к mongo","587","mongoConnection","MultipleTestsSuite","Fri Mar 21 12:48:19 EET 2025","passed","Fri Mar 21 12:48:20 EET 2025","com.goldeneggs.betting.mainPage","Main","com.goldeneggs.betting.mainPage","mongoConnection"
+"Авторизация","3957","auth","MultipleTestsSuite","Wed Mar 19 10:55:00 EET 2025","passed","Wed Mar 19 10:55:03 EET 2025","com.goldeneggs.casino.main","MainTest","com.goldeneggs.casino.main","auth"
