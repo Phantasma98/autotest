@@ -1,1 +1,1 @@
-{"total":1,"items":[{"uid":"5ca554bf5c8334ea2957666c4add1a48","name":"MultipleTestsSuite","statistic":{"failed":2,"broken":0,"skipped":0,"passed":4,"unknown":0,"total":6}}]}
+{"total":2,"items":[{"uid":"5ca554bf5c8334ea2957666c4add1a48","name":"MultipleTestsSuite","statistic":{"failed":2,"broken":0,"skipped":0,"passed":4,"unknown":0,"total":6}},{"uid":"a4292980a2ffae56b298d9b889ac2de9","name":"Autotests","statistic":{"failed":0,"broken":1,"skipped":1,"passed":0,"unknown":0,"total":2}}]}
