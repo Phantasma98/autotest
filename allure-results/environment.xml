@@ -1,0 +1,14 @@
+<environment>
+    <parameter>
+        <key>OS</key>
+        <value>Ubuntu 22.04.5 LTS</value>
+    </parameter>
+    <parameter>
+        <key>Browser</key>
+        <value>Google Chrome 134.0.6998.165 </value>
+    </parameter>
+    <parameter>
+        <key>Test Environment</key>
+        <value>Development</value>
+    </parameter>
+</environment>
