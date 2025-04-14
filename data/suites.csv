@@ -1,2 +1,2 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","34228","getAllSports","PlaywrightSuite","Mon Apr 14 17:23:14 EEST 2025","passed","Mon Apr 14 17:23:49 EEST 2025","betting.tests.CheckEvents","ParallelTests","betting.tests.CheckEvents","getAllSports"
+"","30782","getAllSports","PlaywrightSuite","Mon Apr 14 17:33:13 EEST 2025","passed","Mon Apr 14 17:33:44 EEST 2025","betting.tests.CheckEvents","ParallelTests","betting.tests.CheckEvents","getAllSports"
