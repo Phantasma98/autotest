@@ -1,0 +1,8 @@
+Soccer: 1014
+Boxing: 6
+Basketball: 72
+Cricket: 44
+Volleyball: 7
+Baseball: 10
+Ice Hockey: 62
+Tennis: 81
