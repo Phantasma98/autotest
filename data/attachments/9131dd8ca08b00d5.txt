@@ -1,0 +1,198 @@
+Superbike: 0
+Rally: 0
+Figure Skating: 0
+Freestyle Skiing: 0
+Skeleton: 0
+Short Track: 0
+Soccer Mythical: 0
+eSport: 0
+World Lottery: 0
+ESport Counter-Strike: 0
+Motorsport: 0
+ESport League of Legends: 0
+ESport Dota: 0
+ESport StarCraft: 0
+ESport Hearthstone: 0
+ESport Heroes of the Storm: 0
+ESport World of Tanks: 0
+Polo: 0
+MMA: 0
+ESport Call of Duty: 0
+ESport Smite: 0
+Rugby: 38
+ESport Vainglory: 0
+ESport Overwatch: 0
+ESport WarCraft III: 0
+ESport Crossfire: 0
+ESport Halo: 0
+ESport Rainbow Six: 0
+Sepak Takraw: 0
+ESport Street Fighter V: 0
+ESport Rocket League: 0
+Indy Racing: 0
+Aussie Rules: 0
+Basque Pelota: 0
+Speedway: 0
+ESport Gears of War: 0
+ESport Clash Royale: 0
+ESport King of Glory: 0
+Gaelic Football: 0
+Gaelic Hurling: 0
+eSoccer: 0
+Kabaddi: 0
+ESport Quake: 0
+Winter Sports: 0
+ESport PlayerUnknowns Battlegrounds: 0
+Cycling Cycle Ball: 0
+Formula E: 0
+7BallRun: 0
+Motocross: 0
+Sprint Car Racing: 0
+Speed Boat Racing: 0
+Drag Racing: 0
+Modified Racing: 0
+Bandy: 0
+Off Road: 0
+Truck & Tractor Pulling: 0
+ESport World of Warcraft: 0
+eBasketball: 0
+ESport Dragon Ball FighterZ: 0
+Basketball 3x3: 0
+ESport Tekken: 0
+Beach Handball: 0
+ESport Arena of Valor: 0
+ESport TF2: 0
+American Football: 4
+ESport SSBM: 0
+ESport Paladins: 0
+ESport Artifact: 0
+Indoor Soccer: 0
+ESport Apex Legends: 0
+Indy Lights: 0
+ESport Pro Evolution Soccer: 0
+ESport Madden NFL: 0
+ESport Brawl Stars: 0
+Petanque: 0
+Cycling: 0
+ESport Fortnite: 0
+ESport MTG: 0
+Fishing: 0
+Esport Dota Underlords: 0
+Esport Teamfight Tactics: 0
+Esport Auto Chess: 0
+Esport Fighting Games: 0
+DEPRECATED sc: 0
+ESport Motorsport: 0
+Cycling BMX Freestyle: 0
+Specials: 0
+Cycling BMX Racing: 0
+Karate: 0
+Marathon Swimming: 0
+Skateboarding: 0
+Sport Climbing: 0
+Nascar Camping World Truck: 0
+Nascar Xfinity Series: 0
+NHRA: 0
+Touring Car Racing: 0
+Formula 2: 0
+Snooker: 0
+Motorcycle Racing: 0
+Stock Car Racing: 0
+Air Racing: 0
+Endurance Racing: 0
+ESport Valorant: 0
+eIce Hockey: 0
+eTennis: 0
+eCricket: 0
+eVolleyball: 0
+ESport Wild Rift: 0
+Table Tennis: 0
+T-Basket: 0
+Racquetball: 0
+Muay Thai: 0
+Soccer Specials: 0
+Breaking: 0
+Cornhole: 0
+Pickleball: 0
+Cyclo-Cross: 0
+Darts: 0
+Field hockey: 0
+Pool: 0
+Waterpolo: 0
+Gaelic sports: 0
+Curling: 0
+Futsal: 0
+Olympics: 0
+Badminton: 0
+Bowls: 0
+Chess: 0
+Beach Volley: 0
+Netball: 0
+Athletics: 0
+Squash: 0
+Rink Hockey: 0
+Lacrosse: 0
+Formula 1: 0
+Bikes: 0
+DTM: 0
+Alpine Skiing: 0
+Biathlon: 0
+Bobsleigh: 0
+Cross-Country: 0
+Nordic Combined: 0
+Ski Jumping: 0
+Snowboard: 0
+Speed Skating: 0
+Luge: 0
+Swimming: 0
+Finnish Baseball: 0
+Softball: 0
+Horse racing: 0
+Schwingen: 0
+Inline Hockey: 0
+Greyhound: 0
+Rugby League: 0
+Handball: 0
+Beach Soccer: 0
+Pesapallo: 0
+Streethockey: 0
+World Championship: 0
+Rowing: 0
+Freestyle: 0
+Snowboardcross/Parallel: 0
+MotoGP: 0
+Moto2: 0
+Moto3: 0
+Floorball: 0
+Nascar Cup Series: 0
+Padel: 0
+Canoeing: 0
+Horseball: 0
+Aquatics: 0
+Archery: 0
+Equestrian: 0
+Fencing: 0
+Gymnastics: 0
+Judo: 0
+Trotting: 0
+Modern Pentathlon: 0
+Sailing: 0
+Shooting: 0
+Taekwondo: 0
+Triathlon: 0
+Weightlifting: 0
+Wrestling: 0
+Olympics Youth: 0
+Mountain Bike: 0
+Riding: 0
+Golf: 0
+Surfing: 0
+BMX racing: 0
+Canoe slalom: 0
+Rhythmic gymnastics: 0
+Trampoline Gymnastics: 0
+Artistic Swimming: 0
+Diving: 0
+Track cycling: 0
+Beach Tennis: 0
+Sumo: 0
